@@ -1,0 +1,40 @@
+NONE
+ 1 
+ 1 
+ 1 
+NONE
+ 1 
+ 1 
+ 1 
+TEXIN
+ 1 
+ 1 
+ 1 
+TEXIN
+ 1 
+ 1 
+ 1 
+NONE
+ 1 
+ 1 
+ 1 
+NONE
+ 1 
+ 1 
+ 1 
+NONE
+ 1 
+ 1 
+ 1 
+NONE
+ 1 
+ 1 
+ 1 
+JACK
+ 1 
+ 1 
+ 1 
+JOCKO
+ 2 
+ 1 
+ 1 
